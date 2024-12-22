@@ -1,0 +1,15 @@
+# requirements.txt
+
+# Python packages for data manipulation and statistical analysis
+pandas>=1.5.0
+numpy>=1.23.0
+
+# For data visualization
+matplotlib>=3.5.0
+seaborn>=0.11.2
+
+# For statistical testing
+scipy>=1.7.0
+
+# For regression modeling and analysis
+scikit-learn>=1.1.0
